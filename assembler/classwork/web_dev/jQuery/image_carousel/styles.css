@@ -1,0 +1,20 @@
+body{
+    margin:0;
+}
+
+.container{
+   width: 100px;
+   height: 100px;
+   position: relative; 
+}
+
+.image{
+    position: absolute;
+    border: ridge;
+}
+.containerOne-button{
+    position: absolute;
+    color:black;
+    padding: 15px 32px;
+    font-size:16px;
+}
